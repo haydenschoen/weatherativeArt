@@ -1,6 +1,6 @@
 'use strict'
 
-var DEBUG = true;
+var DEBUG = false;
 var SOLO_BACKGROUND = false;
 var debugLayer;
 
